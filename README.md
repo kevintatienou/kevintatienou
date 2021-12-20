@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevintatienou
 - 👀 I’m interested in web app developpment 
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Processing
 - 💞️ I’m looking to collaborate on Rest , Flutter
 - 📫 How to reach me kevintatienou@gmail.com
 
